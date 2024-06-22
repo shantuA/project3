@@ -9,6 +9,6 @@ def tumbbad(request):
                           "they face catastrophic consequences.<center></h2>")
 
 def partner(request):
-    return HttpResponse("<h1><center>PARTNER is Comedy Movie<center></h1> <h2><center>Prem, a love guru who shares tips on dating women,"
-                         "helps his client, Bhaskar, woo his boss. However, he later falls for a single mother and"
-                           "tries to hide his profession.<center></h2>")
+    return HttpResponse("<h1><center>PARTNER is Comedy Movie<center></h1> <h2><center>PREM, a love guru who shares tips on dating women,"
+                         "helps his client, BHASKAR, woo his boss. However, he later falls for a single mother and"
+                           " tries to hide his profession.<center></h2>")
